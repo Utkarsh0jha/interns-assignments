@@ -19,7 +19,7 @@ const attachment = {
 
 const mailOptions = {
     from: 'utkarshojha234@gmail.com', 
-    to: 'tiwarri2311@gmail.com',
+    to: 'hr@ignitershub.com',
     subject: 'Challenge 3 Completed',
     html: `
         <p><strong>Your Name:</strong> Utkarsh Ojha</p>
